@@ -1,0 +1,2 @@
+# SeqDataCon
+Sequelize Data Connection
